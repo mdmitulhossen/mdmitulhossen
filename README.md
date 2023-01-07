@@ -4,12 +4,12 @@ I enjoy taking complex problem and turning them into simple and beautiful coding
 
 Enjoy Coding.... 
 
-Skills:  JS/BOOTSTRAP / HTML / CSS
+Skills: REACTJS/ExpressJS/NODEJS/MongoDB/ JS/BOOTSTRAP / HTML / CSS /JAVA
 
 - 🔭 I’m currently working on Own Projects 
-- 🌱 I’m currently learning JS. 
+- 🌱 I’m currently learning NODEJS. 
 - 👯 I’m looking to collaborate on any frontend related projects. 
-- 💬 Ask me about HTML,CSS,BOOTSTRAP,JS. 
+- 💬 Ask me about REACTJS ExpressJS NODEJS MongoDB JS BOOTSTRAP HTML CSS JAVA. 
 - 📫 How to reach me: md.mitul.hossen99@gmail.com 
 - ⚡ Fun fact: Everyday I try to learn any thing such as code. 
 
