@@ -1,5 +1,5 @@
 ### Hi there 👋, I am MITUL
-#### Frontend Web Developer
+#### MERN Stack Developer || FULL Stack Developer
 I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. Whether it be HTML,CSS,BOOTSTRAP,JAVASCRIPT.
 
 Enjoy Coding.... 
