@@ -71,5 +71,5 @@ Gigagadgets is technology and electronics product selling website.Explore a cura
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Github Current Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdmitulhossen&theme=shadow-purple&border_radius=5.8&type=png" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdmitulhossen&theme=calm-pink" alt="GitHub Streak" />
 </p>
