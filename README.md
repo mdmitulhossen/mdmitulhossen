@@ -1,18 +1,34 @@
-### Hi there 👋, I am MITUL
-#### MERN Stack Developer || FULL Stack Developer
-I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. Whether it be HTML,CSS,JAVASCRIPT,ReactJS,NodeJS,MongoDb,TailwindCSS.
+<a href="">
+<img src="https://raw.githubusercontent.com/mdmitulhossen/mdmitulhossen/6a45c013d5e3780aab9672b366a3cf216adfcdb8/Images/MD%20MITUL%20HOSSAIN.svg" />
+</a>
+<br/>
+<br/>
+<br/>
 
-Enjoy Coding.... 
+I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. I am eager to collaborate on exciting projects, demonstrating a passion for delivering high-quality solutions. Whether it be HTML,CSS,JavaScript,ReactJS,NodeJS,MongoDb,TailwindCSS and there's more.
 
-Skills: REACTJS | ExpressJS | NODEJS | MongoDB | Mongoose | JS | BOOTSTRAP | HTML5 | CSS3 | TailwindCSS | MUI
-
-- 🔭 I’m currently working on Own Projects 
-- 🌱 I’m currently learning NODEJS. 
-- 👯 I’m looking to collaborate on any frontend related projects. 
-- 💬 Ask me about REACTJS ExpressJS NODEJS MongoDB JS BOOTSTRAP HTML CSS JAVA TailwindCSS. 
+- 🔭 I’m currently working on Own Projects(Car-Doctor) 
+- 🌱 I’m currently learning MongoDB. 
+- 👯 I’m looking to collaborate on any MERN stack related projects. 
+- 💬 Ask me about REACTJS ExpressJS NODEJS MongoDB JAVASCRIPT  HTML CSS  TailwindCSS C . 
 - 📫 How to reach me: md.mitul.hossen99@gmail.com 
 - ⚡ Fun fact: Everyday I try to learn any thing such as code. 
+<br>
+## :computer: Technologies that I know
 
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,bootstrap,firebase,materialui" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,redux,vercel,vite" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmitulhossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mitul99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdmitul.hossen.568)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mdmitul99)  
+<br>
 
+## :chart_with_upwards_trend: My Github Current Stats
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mdmitulhossen&theme=shadow-purple" alt="GitHub Streak" />
+</p>
