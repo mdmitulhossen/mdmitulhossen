@@ -8,7 +8,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E44AF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Md+Mitul+Hossain;Web+Developer" alt="Typing SVG" />
 </p>
 I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. I am eager to collaborate on exciting projects, demonstrating a passion for delivering high-quality solutions. Whether it be HTML,CSS,JavaScript,ReactJS,NodeJS,MongoDb,TailwindCSS and there's more.
+
 <br/>
+
 - 🔭 I’m currently working on Own Projects(Car-Doctor) 
 - 🌱 I’m currently learning MongoDB. 
 - 👯 I’m looking to collaborate on any MERN stack related projects. 
@@ -30,7 +32,7 @@ I enjoy taking complex problem and turning them into simple and beautiful coding
 
 <br>
 
-## :chart_with_upwards_trend: My Github Current Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Github Current Stats
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdmitulhossen&theme=shadow-purple" alt="GitHub Streak" />
