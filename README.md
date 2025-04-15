@@ -7,15 +7,15 @@
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E44AF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Md+Mitul+Hossain;Web+Developer" alt="Typing SVG" />
 </p>
-I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. I am eager to collaborate on exciting projects, demonstrating a passion for delivering high-quality solutions. Whether it be HTML | CSS | JavaScript | ReactJS | NodeJS | MongoDb  | TailwindCSS and there's more.
+I enjoy taking complex problem and turning them into simple and beautiful coding interface. I also Love the logic and structure of coding and always strive to write elegant and efficient code. I am eager to collaborate on exciting projects, demonstrating a passion for delivering high-quality solutions. Whether it be HTML | CSS | JavaScript | ReactJS |NextJS | NodeJS | MongoDb  | TailwindCSS | RestAPI | GraphQL  and there's more.
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Own Projects(Car-Doctor) 
-- 🌱 I’m currently learning MongoDB. 
+- 🔭 I’m currently working on Spands SPS Company as a Web developer 
+- 🌱 I’m currently learning AI. 
 - 👯 I’m looking to collaborate on any MERN stack related projects. 
-- 💬 Ask me about ReactJS | ExpressJS | NodeJS | MongoDB | JavaScript | HTML | CSS |  TailwindCSS | C . 
+- 💬 Ask me about JavaScript| ReactJS | NextJS | ExpressJS | NodeJS | MongoDB  | HTML | CSS |  TailwindCSS | C . 
 - 📫 How to reach me: md.mitul.hossen99@gmail.com 
 - ⚡ Fun fact: Everyday I try to learn new things such as web development. 
 
